@@ -18,6 +18,6 @@ The goal of this tutorial is to provide you end-to-end process automation with t
 This tutorial is designed for developers who would like to understand the features and capabilities of Camunda BPMN.
 
 ## Prerequisites 
-You are expected to have basic understanding of business process and familiar with Java or any other programming language.
+You are expected to have a basic understanding of the business processes and be familiar with Java or any other programming language.
 
-## [Course Contnet](https://github.com/JoschaGreuel/KRN06/wiki/Table-of-Content)
+### [Go to Course Contnet](https://github.com/JoschaGreuel/KRN06/wiki/Table-of-Content)
