@@ -20,4 +20,4 @@ This tutorial is designed for developers who would like to understand the featur
 ## Prerequisites 
 You are expected to have a basic understanding of the business processes and be familiar with Java or any other programming language.
 
-#### [Go to Course Contnet](https://github.com/JoschaGreuel/KRN06/wiki/Table-of-Content)
+#### [Go to Full Course ](https://github.com/JoschaGreuel/KRN06/wiki/chapter_1)
